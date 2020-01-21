@@ -6,4 +6,8 @@
 #
 # //抓取一个远程主分支
 #git remote add origin -f https://github.com/"远程仓库"
+# //从远程库抓回文件
+#git pull --rebase origin master
+#
+#//尝试合并分支并push到远程库
 #
