@@ -1,0 +1,9 @@
+#建立一个目录；
+#git init    //初始化为本地仓库
+#git remote add origin "远程仓库地址"   //连接远程仓库
+# //克隆远程仓库
+#git clone https://github.com/"远程仓库"
+#
+# //抓取一个远程主分支
+#git remote add origin -f https://github.com/"远程仓库"
+#
